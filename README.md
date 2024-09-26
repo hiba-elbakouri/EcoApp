@@ -1,3 +1,29 @@
 # EcoApp
 
-In this project I created a Dashboard App using the MERN stack (MongoDB, Express.js, React, Node.js) with the integration of machine learning predictions. The frontend is  developed using Vite as the starter application, Redux Toolkit for state management, Material UI for the component library, and Recharts for creating interactive charts. On the backend, I utilize Node.js as the runtime environment, Express.js as the backend framework, and MongoDB as the database.
+## Introduction
+EcoApp is a dynamic dashboard application designed using the MERN stack and integrating machine learning predictions. This project utilizes MongoDB, Express.js, React, and Node.js, with Redux Toolkit for state management and Recharts for data visualization.
+
+## Features
+- **Dynamic User Interface**: Engaging and interactive UI designed with React.
+- **Data Visualization**: Implement Recharts for displaying interactive data charts.
+- **Machine Learning Integration**: Leverage machine learning to predict and analyze data efficiently.
+
+## Installation
+1. Clone the repository:
+git clone https://github.com/hiba-elbakouri/EcoApp.git
+
+2. Install dependencies:
+npm install
+
+3. Start the server:
+npm start
+
+
+## Usage
+After starting the app, navigate to `localhost:3000` to view the dashboard and interact with the various features.
+
+## Contributing
+Contributions are welcome! Please fork the repository and open a pull request with your features or fixes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
