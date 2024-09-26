@@ -22,8 +22,4 @@ npm start
 ## Usage
 After starting the app, navigate to `localhost:3000` to view the dashboard and interact with the various features.
 
-## Contributing
-Contributions are welcome! Please fork the repository and open a pull request with your features or fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
